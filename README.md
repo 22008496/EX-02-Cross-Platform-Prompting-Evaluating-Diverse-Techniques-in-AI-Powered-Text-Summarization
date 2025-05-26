@@ -11,7 +11,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 
  
 
-# � ChatGPT (GPT-4.5) 
+#  ChatGPT (GPT-4.5) 
 ## 1. Zero-Shot Prompting 
 Prompt: "Summarize the following article." 
 Summary: 
@@ -112,7 +112,7 @@ trustworthy. Blockchain is best known for supporting cryptocurrencies like
 Bitcoin but is also used in tracking products, managing medical records, and 
 more, thanks to its transparency and reliability. 
 
-# � Claude  
+#  Claude  
 ## 1. Zero-Shot Prompting 
 Prompt: "Summarize the following article." 
 Summary: 
@@ -269,6 +269,8 @@ Fast generation time, similar to ChatGPT.
 User Experience: Fair 
 Integrated into developer tools, not ideal for educational use cases; lacks 
 interactivity. 
+
+
 # ALGORITHM (Methodology) 
 Preparation: 
 Select or write a 500-word article titled “The Basics of Blockchain 
@@ -290,6 +292,11 @@ Copilot (Microsoft)
 Execution 
 Run all four prompting techniques on all four platforms 
 Result for the execution: 
+![Screenshot 2025-05-08 080701](https://github.com/user-attachments/assets/14c28828-2724-41f7-8e1f-30473073c79b)
+
+![Screenshot 2025-05-08 080840](https://github.com/user-attachments/assets/9e4ad073-c239-401f-b70c-cf766378602b)
+
+
 # RESULT: 
 Thus 
 Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Tex
